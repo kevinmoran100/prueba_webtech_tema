@@ -5,59 +5,9 @@
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>TechDemo</title>
+	<title>Prueba</title>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <meta name='robots' content='noindex,follow' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//secure.gravatar.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-
-<link rel='stylesheet' id='ccw_main_css-css'  href='https://techweb.press/wp-content/plugins/click-to-chat-for-whatsapp/assets/css/mainstyles.css?ver=1.6' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='https://techweb.press/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='erp-subscription-form-css'  href='https://techweb.press/wp-content/plugins/erp/modules/crm/assets/css/erp-subscription-form.css?ver=1.3.14' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-css'  href='https://techweb.press/wp-includes/css/dashicons.min.css?ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='https://techweb.press/wp-content/themes/tech-demo/assets/css/bootstrap.min.css?ver=4.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='style-css'  href='https://techweb.press/wp-content/themes/tech-demo/style.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack-widget-social-icons-styles-css'  href='https://techweb.press/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack_css-css'  href='https://techweb.press/wp-content/plugins/jetpack/css/jetpack.css?ver=6.4.2' type='text/css' media='all' />
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<link rel='https://api.w.org/' href='https://techweb.press/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://techweb.press/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://techweb.press/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 4.9.8" />
-<link rel="canonical" href="https://techweb.press/" />
-<link rel='shortlink' href='https://wp.me/PabTc4-8' />
-<link rel="alternate" type="application/json+oembed" href="https://techweb.press/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftechweb.press%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://techweb.press/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftechweb.press%2F&#038;format=xml" />
-
-<link rel='dns-prefetch' href='//v0.wordpress.com'/>
-<link rel='dns-prefetch' href='//i0.wp.com'/>
-<link rel='dns-prefetch' href='//i1.wp.com'/>
-<link rel='dns-prefetch' href='//i2.wp.com'/>
-<style type='text/css'>img#wpstats{display:none}</style>			<style type="text/css">
-				html:not( .jetpack-lazy-images-js-enabled ) .jetpack-lazy-image {
-					display: none;
-				}
-			</style>
-			<script>
-				document.documentElement.classList.add(
-					'jetpack-lazy-images-js-enabled'
-				);
-			</script>
-
-<!-- Jetpack Open Graph Tags -->
-<meta property="og:type" content="website" />
-<meta property="og:title" content="TechDemo" />
-<meta property="og:description" content="Otro sitio realizado con WordPress" />
-<meta property="og:url" content="https://techweb.press/" />
-<meta property="og:site_name" content="TechDemo" />
-<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
-<meta property="og:locale" content="es_ES" />
-<meta name="twitter:text:title" content="Inicio" />
-<meta name="twitter:card" content="summary" />
-
-<!-- End Jetpack Open Graph Tags -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 </head>
 <body>
@@ -244,61 +194,5 @@
   </div>
   	<div style="display:none">
 	</div>
-<div class="ccw_plugin chatbot" style="bottom:10px; right:10px;" >
-    <!-- style 3  logo -->
-    <div class="ccw_style3 animated no-animation ccw-no-hover-an ">
-        <a target="_blank" href="https://web.whatsapp.com/send?phone=50235156708&text= " class="img-icon-a nofocus">
-            <img class="img-icon ccw-analytics" id="style-3" data-ccw="style-3" style="height: 60px;" src="https://techweb.press/wp-content/plugins/click-to-chat-for-whatsapp/./assets/img/whatsapp-logo.png" alt="WhatsApp chat">
-        </a>
-    </div>
-</div><link rel='stylesheet' id='gforms_reset_css-css'  href='https://techweb.press/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.2.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://techweb.press/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.2.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://techweb.press/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.2.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://techweb.press/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.2.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='gsurvey_css-css'  href='https://techweb.press/wp-content/plugins/gravityformssurvey/css/gsurvey.css?ver=3.2' type='text/css' media='screen' />
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var ht_ccw_var = {"page_title":"Inicio","google_analytics":"","ga_category":"","ga_action":"","ga_label":"","fb_analytics":"","fb_event_name":"","p1_value":"","p2_value":"","p3_value":"","p1_name":"","p2_name":"","p3_name":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/click-to-chat-for-whatsapp/assets/js/app.js?ver=1.6'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/techweb.press\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var erpSubscriptionForm = {"ajaxurl":"https:\/\/techweb.press\/wp-admin\/admin-ajax.php","nonce":"eda772d003"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/erp/modules/crm/assets/js/erp-subscription-form.js?ver=1.3.14'></script>
-<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201838'></script>
-<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Sepaa'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.8'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/themes/tech-demo/assets/js/bootstrap.min.js?ver=4.1.1'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/themes/tech-demo/assets/js/script.js?ver=1.0.0'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=6.4.2'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.2.5.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.2.5.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='https://techweb.press/wp-content/plugins/gravityformssurvey/js/gsurvey.js?ver=3.2'></script>
-<script type='text/javascript' src='https://stats.wp.com/e-201838.js' async='async' defer='defer'></script>
-<script type='text/javascript'>
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.4.2',blog:'150597136',post:'8',tz:'0',srv:'techweb.press'} ]);
-	_stq.push([ 'clickTrackerInit', '150597136', '8' ]);
-</script>
 </body>
 </html>
